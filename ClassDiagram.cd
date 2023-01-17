@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Application">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQIABEAAAAAAAAAAAgAgAACABAIAAAgAAAAAAA=</HashCode>
+      <FileName>Application.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Node">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAQAIIAAAIEAAAAFAIBACAAAAEA=</HashCode>
+      <FileName>basicClasses.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>basicClasses.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Labirint">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="Labirint::CustomCompare" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Labirint.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAYhSTAIBAACAAwDBAcSEAIIAAAAEIQCFQOABgAgAVE=</HashCode>
+      <FileName>Labirint.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LabirintOption">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQBAAADBIAAAAmAAAKAQAAoAogAAAEAEACCAAAgiAQ=</HashCode>
+      <FileName>LabirintOptions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAggAAIgAAAQAIAAAAAAAAAAACAgAAA=</HashCode>
+      <FileName>Main_Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Point" Collapsed="true">
+    <Position X="11" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>basicClasses.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="intPoint" Collapsed="true">
+    <Position X="11" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>basicClasses.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="NODE_STATE" Collapsed="true">
+    <Position X="11" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAABAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>basicClasses.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="LABIRINT_STATE" Collapsed="true">
+    <Position X="11" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAACAAQAAAAAAAA=</HashCode>
+      <FileName>basicClasses.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CURSOR_STATE" Collapsed="true">
+    <Position X="11" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAASAAAAAAAAAAAAAAAgAAAAAAIAABAAAABAAA=</HashCode>
+      <FileName>basicClasses.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
